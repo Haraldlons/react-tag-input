@@ -17,7 +17,7 @@
   "types": "src/index.d.ts",
   "files": [
     "dist",
-    "index.d.ts"
+    "src/index.d.ts"
   ],
   "devDependencies": {
     "babel-cli": "^6.26.0",
