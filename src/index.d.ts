@@ -1,0 +1,1 @@
+declare module '@haraldlons/reactjs-tag-input'

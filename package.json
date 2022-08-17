@@ -1,6 +1,6 @@
 {
   "name": "@haraldlons/reactjs-tag-input",
-  "version": "2.0.16",
+  "version": "2.0.17",
   "repository": "https://github.com/haraldlons/react-tag-input",
   "license": "MIT",
   "keywords": [
@@ -14,8 +14,10 @@
   ],
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "types": "src/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "devDependencies": {
     "babel-cli": "^6.26.0",
